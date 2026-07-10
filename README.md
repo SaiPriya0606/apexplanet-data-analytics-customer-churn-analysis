@@ -117,6 +117,7 @@ apexplanet-data-analytics/
 ├── README.md
 │
 └── requirements.txt
+|_images/
 ```
 
 ---
@@ -234,7 +235,11 @@ The Power BI dashboard provides interactive analysis of customer churn through:
 * Matrix Visual
 * Interactive Slicers
 
-> **Dashboard Screenshot:** Add a screenshot here after uploading your repository.
+## 📊 Dashboard Screenshot
+
+<p align="center">
+  <img src="images/dashboard.png" width="900">
+</p>
 
 ---
 
@@ -334,17 +339,67 @@ python scripts/automation_pipeline.py
 
 # 📸 Sample Outputs
 
-Include screenshots of:
+## 🧹 Data Cleaning
 
-* Data Cleaning
-* Exploratory Data Analysis
-* SQL Query Results
-* Power BI Dashboard
-* Time Series Forecast
-* K-Means Clustering
-* Machine Learning Evaluation
-* Confusion Matrix
-* ROC Curve
+<p align="center">
+  <img src="images/data_cleaning.png" width="800">
+</p>
+
+---
+
+## 📊 Exploratory Data Analysis
+
+<p align="center">
+  <img src="images/eda.png" width="800">
+</p>
+
+---
+
+## 🗄 SQL Query Results
+
+<p align="center">
+  <img src="images/sql_output.png" width="800">
+</p>
+
+---
+
+## 📈 Power BI Dashboard
+
+<p align="center">
+  <img src="images/dashboard.png" width="900">
+</p>
+
+---
+
+## ⏳ Time Series Forecast
+
+<p align="center">
+  <img src="images/time_series.png" width="800">
+</p>
+
+---
+
+## 🎯 Customer Segmentation (K-Means)
+
+<p align="center">
+  <img src="images/kmeans.png" width="800">
+</p>
+
+---
+
+## 🤖 Confusion Matrix
+
+<p align="center">
+  <img src="images/confusion_matrix.png" width="700">
+</p>
+
+---
+
+## 📉 ROC Curve
+
+<p align="center">
+  <img src="images/roc_curve.png" width="700">
+</p>
 
 ---
 
